@@ -34,4 +34,24 @@
 - p019-calculo-tiempo.py  
 - p020-numero-suerte.py  
 - p021-distancia-entre-puntos.py  
-- p022-resistencia-equivalente-paralelo.py  
+- p022-resistencia-equivalente-paralelo.py
+
+---
+## Actividad 4: Ejecución Condicional (Parte I)
+- p023-verificar-numero.py
+- p024-verificar-numero-v2.py
+- p025-verificar-suma.py
+- p026-convertir-temperaturas-v2.py
+- p027-calcular-paga-extra.py
+- p028-retira-cuenta.py
+- p029-calculadora-descuento.py
+
+
+----
+## Actividad 5: Ejecución Condicional (Parte II)
+- p030-verifica-suma.py
+- p031-2da-ley-de-newton.py
+- p032-aceptar-estudiante.py
+- p033-aceptar-estudiante-v2.py
+- p034-tipo-angulo.py
+- p035-tipo-triangulo.py
