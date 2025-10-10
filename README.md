@@ -34,7 +34,7 @@
 - p019-calculo-tiempo.py  
 - p020-numero-suerte.py  
 - p021-distancia-entre-puntos.py  
-- p022-resistencia-equivalente-paralelo.py  
+- p022-resistencia-equivalente-paralelo.py
 
 ---
 
@@ -67,9 +67,10 @@
 - p040-calculo-notas.py  
 - p041-aceptar-estudiante-v2.py  
 - p042-precio-entrada-cine.py  
-- p043-calculadora-anio-bisiesto.py
+- p043-calculadora-anio-bisiesto.py  
 
 --- 
+
 ## Actividad 6 - Programas hechos en clase
 - p044-conteo-ascendente.py
 - p045-conteo-ascendente-v2.py
@@ -81,6 +82,7 @@
 - p051-adivina-numero.py
 
 ---
+
 ## Actividad 7 - Programas hechos en clase
 - p052-tabla-conversion.py
 - p053-conjetura-collatz.py
@@ -91,3 +93,26 @@
 
 ---
 
+## Tarea 03 - Ciclo while
+- p058-impares-ascendente.py
+- p059-pares-descendente.py
+- p060-promedio-suma.py
+- p061-suma-200.py
+- p062-conversion-temperaturas.py
+- p063-numero-mayor.py
+- p064-verificar-palindromo.py
+
+---
+
+## Actividad 8 - Problema de repaso - Parcial 1
+- 
+---
+## 
+---
+## Actividad 10 - Ejecución repetitiva - Parte 4
+- p076-tablas-todas.py
+- p077-triangulo-caracter.py
+- p078-piramide-caracter.py
+- p079-factorial-numeros.py
+- p080-combina-colores.py
+- p081-suma-potencias.py
