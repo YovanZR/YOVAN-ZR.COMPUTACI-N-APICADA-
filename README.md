@@ -152,3 +152,12 @@
 - p096-registro-estudiantes.py
 - p097-procesar-datos-sensores.py
 - p098-producto-punto.py
+
+---
+## Tarea 5 Listas 
+- p099-procesar-notas.py
+- p100-listas-multiplica.py
+- p101-mes-día-nombre.py
+- p102-listas-aleatorios-suma.py
+- p103-ciudades.py
+- p104-lista-impares.py
